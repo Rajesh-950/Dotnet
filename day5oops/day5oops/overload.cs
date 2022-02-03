@@ -48,7 +48,7 @@ namespace day5oops
             Console.WriteLine(a * b * c);
         }
 
-        static void Main()
+        static void Main6()
         {
             calculator calculator = new calculator(15, 25);
             calculator = +calculator;
